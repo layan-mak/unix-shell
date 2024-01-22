@@ -16,6 +16,6 @@ Assumptions:
 - Only up to 100 processes can run simultaneously.
 
 How to use: 
-Download the files and run the project on a Unix VM, and use the shell GUI!
+- Download the files, compile and run them on a Unix VM, and use the shell prompt to execute commands.
 
 
